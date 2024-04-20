@@ -40,6 +40,18 @@
 
 </div>
 
+<h2 align="left"> Estou me Graduando:<br><br> 
+ADS - Análise e Desenvolvimento de Sistemas: </h2>
+
+<div align="left">
+
+<img align="left" height="84" width="84" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/55dcffba-43d9-4ccf-b06e-22f6d1c5d702">
+
+<br>
+<br>
+<br>
+<br>
+
 <h2 align="left"> Habilidades Adquiridas: </h2>
 
 <div align="left">
