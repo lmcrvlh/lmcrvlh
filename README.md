@@ -41,7 +41,7 @@
 </a>
 <br>
 <a  href="https://discordapp.com/users/_lmcrvlh#3478" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/61fdecd0-bdaf-4cd9-953b-fa53266b7927">
+<img align="center"  height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/3e0bd6a0-9b31-4ecf-9286-198dbc5b08e8">
 </a>
 
 </div>
