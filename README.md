@@ -1,6 +1,8 @@
 <img width=100% bottom=50px src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/26c9a74d-9c21-4247-8aa2-8297e2fe2e10"/>
 <br>
 <br>
+<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Olá,+me+chamo+Luan+Carvalho;Tenho+19+anos+de+idade;Sou+Desenvolvedor+Front+End;Nacionalidade:+Brasileira;)](https://git.io/typing-svg)
 
