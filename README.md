@@ -15,6 +15,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lmcrvlh&bg_color=000000&color=f2f2f2&line=00d5ff&point=464849&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/lmcrvlh?chart=3dbar&gap=2&scale=3&light=30&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=50&theme=blue&dark=true)
+
+</div>
+
+<br>
+
 <div align="center"> 
 <a href="https://instagram.com/_lmcrvlh" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/df368f5f-d15c-486d-b2bd-7b658274d2ec">
@@ -34,11 +42,8 @@
 
 </div>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/lmcrvlh?chart=3dbar&gap=2&scale=3&light=30&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=50&theme=blue&dark=true)
-
-</div>
+<br>
+<br> 
 
 <h2 align="left"> Estou me Graduando:<br><br> 
 ADS - Análise e Desenvolvimento de Sistemas: </h2>
