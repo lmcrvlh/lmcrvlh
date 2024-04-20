@@ -132,7 +132,7 @@ ADS - Análise e Desenvolvimento de Sistemas: </h2>
 <div align="center">
 <h3> Se você me apoia, clique aqui, me dê um café</h3>
 <a href="https://ko-fi.com/lmcrvlh">
-<img width=10% bottom=50px src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/57b5030a-2bff-449a-b693-46a8e70afffc"/>
+<img width=10% bottom=50px src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/99714618-96d1-4cbf-836f-300090906c4b"/>
 
 </a>
 </div>
