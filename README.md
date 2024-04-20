@@ -40,7 +40,7 @@
 
 </div>
 
-<h2 align="left"> Habilidades Adquirida: </h2>
+<h2 align="left"> Habilidades Adquiridas: </h2>
 
 <div align="left">
 
