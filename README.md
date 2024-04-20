@@ -60,9 +60,14 @@ ADS - Análise e Desenvolvimento de Sistemas: </h2>
 
 <img align="left" height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/a787aab2-3df5-40a1-8cf6-390d5d56aa6d">
 
-<img align="left"  height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/f8e4900c-0fb5-474b-8d33-e2cd9aa70080">
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img align="left"  height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/f8e4900c-0fb5-474b-8d33-e2cd9aa70080">
 
 <img align="left"  height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/a844d1bd-7395-49dd-a70b-5996a7f522f6">
 
