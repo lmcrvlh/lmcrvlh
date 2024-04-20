@@ -39,6 +39,10 @@
 <a  href="https://www.linkedin.com/in/luan-carvalho-766448276/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/787e3a3b-3f82-4008-8ec3-4fe8c61d9406">
 </a>
+<br>
+<a  href="https://discordapp.com/users/_lmcrvlh#3478" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/lmcrvlh/lmcrvlh/assets/118197260/5331b8f2-2ca4-401b-9962-4ed526236d8e">
+</a>
 
 </div>
 
